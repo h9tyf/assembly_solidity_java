@@ -1,0 +1,9 @@
+{
+    "name": "Web3App",
+    "description": " ",
+    "repository": " ",
+    "license": "UNLICENSED",
+    "dependencies": {
+        "@ganache/console.log": "0.4.1"
+    }
+}
